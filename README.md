@@ -1,3 +1,3 @@
-# FCC - Product Landing Page
+# freeCodeCamp: Product Landing Page
 
-A simple design for [GoT](https://www.facebook.com/gameofthreadsgot/)
+A simple design for the [XShop Web](https://github.com/egypt-shops/xshop-web) project
